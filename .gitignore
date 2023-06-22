@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 .DS_Store
 .env
+XTestOHE.csv
+XTestTF.csv
+XTrainOHE.csv
+XTrainTF.csv
+yTest.csv
+yTrain.csv
