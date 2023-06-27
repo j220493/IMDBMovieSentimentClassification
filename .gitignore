@@ -7,3 +7,5 @@ XTrainFreq.csv
 XTrainTF.csv
 yTest.csv
 yTrain.csv
+XTrainPreEmb.csv
+XTestPreEmb.csv
